@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(129, 141, 151);  
+}
+.satish{
+    color:white;
+    border: solid;
+    border-radius: 7px;
+    border-color:rgb(21, 21, 21);
+    border-width: 2px;
+    margin-top: 10px;
+}
+.date{
+    /* background-color: aqua; */
+    text-align: start;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+   
+}
+.mumbai{
+    list-style: none;
+    display: flex;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.mname{
+    margin-left: 10px;
+}
+.mimg{
+    
+    height: 16px;
+}
+.mrun{
+    justify-content: flex-end;
+    padding-left: 74%;
+}
+  
+.gt{
+  list-style: none;
+  display: flex;
+  text-transform: uppercase;
+  margin-left: 10px;
+}
+.gimg{
+  height: 15px;
+}
+.gname{
+  margin-left: 10px;
+}
+.gtrun{
+  justify-content: end;
+  padding-left: 65.5%;
+}
+.who_w_the_match{
+  margin-left: 10px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+.all{
+    text-decoration:none;
+}
+.rtrun{
+  justify-content: end;
+  padding-left: 59.5%;
+}
+.rimg{
+  height: 15px;
+  width: 15px;
+}
+.dtrun{
+  justify-content: end;
+  padding-left: 66.5%;
+}
+.uptrun{
+  justify-content: end;
+  padding-left: 68.5%;
+}
+.up1trun{
+  justify-content: end;
+  padding-left: 66.5%;
+}
+.up2trun{
+  justify-content: end;
+  padding-left: 67%;
+}
+footer{
+    background-color: rgb(24, 30, 30);
+    color:white;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 6px;
+}
