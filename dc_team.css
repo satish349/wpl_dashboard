@@ -1,13 +1,14 @@
 body{
-    background-color: rgb(129, 141, 151);  
+    background-color: rgb(135, 226, 15);  
   }
   .satish{
-    color:white;
+    /* color:rgb(91, 82, 82); */
     border: solid;
     border-radius: 7px;
     border-color:rgb(21, 21, 21);
     border-width: 2px;
     margin-top: 10px;
+    border: 100%;
   }
   .date{
     /* background-color: aqua; */
@@ -31,10 +32,7 @@ body{
     
     height: 16px;
   }
-  .rrun{
-    justify-content: flex-end;
-    padding-left: 60%;
-  }
+ 
   
   .gt{
   list-style: none;
@@ -48,10 +46,7 @@ body{
   .name{
   margin-left: 10px;
   }
-  .gtrun{
-  justify-content: end;
-  padding-left: 73.5%;
-  }
+  
   .who_w_the_match{
   margin-left: 10px;
   margin-top: 4px;
@@ -60,45 +55,32 @@ body{
   .all{
     text-decoration:none;
   }
-  .rtrun{
-  justify-content: end;
-  padding-left: 60.5%;
-  }
+  
   .rimg{
   height: 15px;
   width: 15px;
   }
-  .dtrun{
-  justify-content: end;
-  padding-left: 66.5%;
-  }
-  .d1run{
+  
+  .gaints{
     justify-content: end;
-    padding-left: 65.5%;
+    padding-left: 85%;
     }
-  .d1trun{
+  .mumbai{
     justify-content: end;
-    padding-left: 65.5%;
+    padding-left: 84%;
     }
-  .mtrun{
+  .war{
     justify-content: end;
-    padding-left: 75%;
+    padding-left: 83%;
     }
-  .uptrun{
-  justify-content: end;
-  padding-left: 72.5%;
-  }
-  .up1trun{
-  justify-content: end;
-  padding-left: 66.5%;
-  }
-  .g1trun{
-  justify-content: end;
-  padding-left: 76%;
-  }
-  .drun{
-    justify-content: end;
-    padding-left: 67%;
+  
+  .delhi{
+    justify-content:flex-end;
+    padding-left: 80%;
+    }
+    .royal{
+      justify-content: flex-end;
+      padding-left: 77%;
     }
   footer{
     background-color: rgb(24, 30, 30);
